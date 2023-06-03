@@ -1,2 +1,2 @@
 # LojaLivraria
- Um trino de css html
+ Um treino de css html
